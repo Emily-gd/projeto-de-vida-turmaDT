@@ -4,9 +4,9 @@
     --cor-de-fundo: #bb51d6;
     --verde: #6ca0e4;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #736db3;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --texto-fundo: rgba(75, 67, 163, 0.3);
 }
 
 body {
@@ -27,13 +27,13 @@ body {
 }
 
 .titulo-principal {
-    text-align: left;
+    text-align: center;
     width: 100%;
     font-size: 32px;
 }
 
 .titulo-principal span {
-    color: var(--verde);
+    color: var(--roxo);
 }
 
 .botao {
